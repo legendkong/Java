@@ -9,6 +9,7 @@
 public class BLKong_Lab_1 {
 
 	public static void main(String[] args) {
+		System.out.println("Hello world!");
 		System.out.println("Welcome to CSIT111!");
 		System.out.println("My name is Kong Boon Lieng, Jonathan");
 		System.out.println("This is my second semester in UOW");
