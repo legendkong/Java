@@ -1,15 +1,6 @@
 import java.util.Scanner;
 
-/*
-Name : Kong Boon Lieng, Jonathan
-Student number : 10237962
-Tutorial group : T04F
-
-File name : BLKong_Lab_2.java
-Declaration : This is my own work and I did not copy or plagiarize people's work.
- */
-
-public class BLKong_Lab_2 {
+public class Cryptography {
 
 	public static void main(String[] args) {
 			
