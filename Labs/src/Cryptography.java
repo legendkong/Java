@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Cryptography {
 
+	//Encrypt +7%10 || Decrypt +3%10
 	public static void main(String[] args) {
 			
 		while(true) {
