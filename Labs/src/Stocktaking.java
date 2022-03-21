@@ -1,13 +1,5 @@
 import java.util.Scanner;
 
-// Full Name: Kong Boon Lieng
-// Student number : 10237962
-// Full time student
-// Tutorial Group : T04F
-// File name : KongBoonLieng_A1.java
-// Declaration : This is my own work and I did not copy or plagiarize people's work.
-
-
 public class Stocktaking {
 	
 	private static final String LINE = "---------"+"---------"+"---------"+"---------"+"---------"+"-------------";
