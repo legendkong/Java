@@ -281,6 +281,9 @@ public class T01F_KongBoonLieng_Asn1 {
 			
 		case 6 :
 			break;
+		
+		default :
+			System.out.println("Invalid input. Please try again");
 		}
 
 	}
